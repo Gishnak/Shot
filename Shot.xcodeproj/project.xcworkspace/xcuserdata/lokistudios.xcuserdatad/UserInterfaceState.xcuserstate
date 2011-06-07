@@ -5962,7 +5962,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>328802807.52545702</real>
+		<real>328803304.82516998</real>
 		<string>{2061, 1115}</string>
 		<string>{2977, 0}</string>
 		<dict>
@@ -9625,7 +9625,7 @@
 		<string>IDEWorkspaceTabController_512FF270-71A1-4035-86CA-09731EA0BF94</string>
 		<string>IDEWindowToolbarIsVisible</string>
 		<string>IDEActiveWorkspaceTabController</string>
-		<string>{{0, 66}, {1152, 775}}</string>
+		<string>{{28, 41}, {1152, 775}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10449,7 +10449,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>328802807.526178</real>
+		<real>328803304.82583201</real>
 		<string>{2061, 1115}</string>
 		<string>{2977, 0}</string>
 		<string>-applicationDidFinishLaunching:</string>
